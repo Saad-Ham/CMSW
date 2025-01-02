@@ -1,0 +1,52 @@
+[
+    {
+        "title": "FingerPrint",
+        "description": "Python has been a cornerstone in my development toolkit. Its clean and readable syntax, combined with a vast array of libraries and frameworks, has empowered me to tackle diverse projects, from web development to data analysis. Python's versatility and ease of integration have made it my go-to language for crafting robust applications and solving complex problems",
+        "image": "fingerprint.png"
+    },
+    {
+        "title": "FaceDetection",
+        "description": "Python has been a cornerstone in my development toolkit. Its clean and readable syntax, combined with a vast array of libraries and frameworks, has empowered me to tackle diverse projects, from web development to data analysis. Python's versatility and ease of integration have made it my go-to language for crafting robust applications and solving complex problems",
+        "image": "face.png"
+    },
+    {
+        "title": "JavaScript",
+        "description": "I bring websites to life with JavaScript, adding interactive features and optimizing performance with clean and efficient code.",
+        "image": "icon-js.svg"
+    },
+    {
+        "title": "Node JS",
+        "description": "I've harnessed the power of Node.js to develop server-side applications that are both efficient and scalable. Its non-blocking I/O model has allowed me to handle numerous simultaneous connections seamlessly. Whether it's building real-time chat applications or developing APIs, Node.js has been instrumental in ensuring smooth and performant server operations.",
+        "image": "icon-node-js.svg"
+    },
+    {
+        "title": "Express JS",
+        "description": "In my projects, I've leveraged Express.js to simplify the creation of web servers and RESTful APIs. Its minimalist and flexible nature has made routing and middleware management straightforward, allowing me to focus on delivering robust server-side solutions. Express.js has proven to be a powerful tool for building dynamic and scalable web applications.",
+        "image": "icon-express-js.svg"
+    },
+    {
+        "title": "CSS (Sass)",
+        "description": "I prioritize pixel perfection, paying close attention to details for visually polished and precisely aligned designs, ensuring a seamless user experience.",
+        "image": "icon-css.svg"
+    },
+    {
+        "title": "Tailwind CSS",
+        "description": "Tailwind CSS: A utility-first CSS framework that streamlines the process of building modern, responsive web interfaces by providing a set of pre-defined utility classes.",
+        "image": "icon-tailwind.svg"
+    },
+    {
+        "title": "Advance AI",
+        "description": "SQL: A standard language for managing and manipulating databases, enabling data retrieval, insertion, updating, and deletion.",
+        "image": "ai.png"
+    },
+    {
+        "title": "MongoDB",
+        "description": "MongoDB: A NoSQL database management system known for its flexibility, scalability, and document-oriented structure.",
+        "image": "icon-mongodb.svg"
+    },
+    {
+        "title": "REST APIs",
+        "description": "I integrate data and functionality seamlessly with REST APIs, creating dynamic web applications for enhanced performance.",
+        "image": "icon-api.svg"
+    }
+]
